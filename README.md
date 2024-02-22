@@ -5,7 +5,7 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, TypeScript, Python, C</code>
+<code>🧑‍💻 Languages: JavaScript, TypeScript, Python, Go</code>
 <code>📦 Tech stack: React.js, node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@girostark](https://telegram.me/girostark)</code>
